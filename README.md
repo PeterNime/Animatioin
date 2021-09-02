@@ -1,2 +1,2 @@
 # Animatioin
-Lab 3 Animation
+Lab Animation
