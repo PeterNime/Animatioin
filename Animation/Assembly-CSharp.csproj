@@ -56,7 +56,6 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/BoyRigAnimations/Script/CameraController.cs" />
     <Compile Include="Assets/BoyRigAnimations/Script/CharacterMovement.cs" />
   </ItemGroup>
   <ItemGroup>
