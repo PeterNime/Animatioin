@@ -17,8 +17,8 @@ public class CharacterMovement : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        VelocityZHash = Animator.StringToHash("VelocityZ");
-        VelocityXHash = Animator.StringToHash("VelocityX");
+        VelocityZHash = Animator.StringToHash("Velocity Z");
+        VelocityXHash = Animator.StringToHash("Velocity X");
 
     }
 

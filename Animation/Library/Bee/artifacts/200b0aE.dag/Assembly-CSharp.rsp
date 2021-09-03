@@ -311,6 +311,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/BoyRigAnimations/Script/CameraController.cs"
 "Assets/BoyRigAnimations/Script/CharacterMovement.cs"
 -langversion:8.0
 
